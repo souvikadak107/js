@@ -1,6 +1,6 @@
 // non primitive data type 
 // array[], object{}, function(){}
-
+//o/p at side
 myname='souvik'
 lastname='adak'
 age=30
