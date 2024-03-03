@@ -13,9 +13,10 @@ number
 */
 
 
+
 //let we change varible like numstring... then check what happend
 
- myscore="33abc"
+ myscore="33abcd"
  console.log(myscore)
  console.log(typeof(myscore))
  
@@ -27,7 +28,7 @@ number
 
  /* 
  o/p:
-33abc
+33abcd
 string
 number
 NaN
