@@ -36,6 +36,6 @@ console.log(Math.floor((Math.random())*10)+1);//1-10
  min=10
  max=20
  
-console.log(Math.floor(Math.random()*(max-min+1))+ min);// now range 10-20
+console.log(Math.floor((Math.random()*(max-min))+ min));// now range 10-20
 
 
